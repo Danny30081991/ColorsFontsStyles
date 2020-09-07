@@ -1,0 +1,101 @@
+h1{
+    font-family: 'Grandstander', cursive;
+}
+
+th{ 
+    font-weight: 700;
+    word-spacing: 0.4em;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.theading1{ 
+    font-weight: 700;
+    word-spacing: 0.4em;
+}
+
+#td1{ background-color: #82b74b;
+      border: 2px solid black;
+      padding: 15px; 
+    }
+
+#td2{ background-color: #2d5dcc;
+      border: 2px solid black;
+      padding: 15px;
+    }
+
+#td3{ background-color: #efd9ca;
+      border: 2px solid black;
+      padding: 15px;
+    }
+#Inconsolata {
+        font-family: 'Inconsolata', monospace;
+        font-size: 20px ;
+    }
+#Inconsolata1 {
+    font-family: 'Inconsolata', monospace;
+    
+}
+#Inconsolata2 {
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+}
+#Inconsolata3 {
+    font-family: 'Inconsolata', monospace;
+    font-style: italic;
+}
+
+#PlayfairDisplay {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    
+}
+#PlayfairDisplay1 {
+    font-family: 'Playfair Display', serif;
+    
+}
+#PlayfairDisplay2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+#PlayfairDisplay2 {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+#RobotoCondensed{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+}
+#RobotoCondensed1{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: lighter;
+    font-style: italic;
+    ;
+}
+#RobotoCondensed2{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+}
+#RobotoCondensed3{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: italic;
+}
+
+#H1heading {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 25px;
+    
+}
+#H2heading {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+}
+#paragraph {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400 (regular);
+}
+table{ 
+    width: 100%;
+    border: 3px black solid;
+    
